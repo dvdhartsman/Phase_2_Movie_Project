@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 
 # Ignore database filetypes
+*.gz
+*.zip
 *.csv
 *.sqlite
 
