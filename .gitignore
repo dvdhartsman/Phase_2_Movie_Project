@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore this file
+zippedData/im.db 
+
 # Ignore database filetypes
 *.db
 *.gz
