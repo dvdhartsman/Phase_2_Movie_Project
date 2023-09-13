@@ -1,2 +1,2 @@
 # Phase_2_Movie_Project
-A thorough analysis of box office performance for multiple genres of movies
+A thorough analysis of box office performance for multiple genres of movies and budgets effect on success 
