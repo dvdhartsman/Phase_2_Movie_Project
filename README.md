@@ -2,7 +2,7 @@
 
 # 3D-Films: Scary Secrets Of The Film Industry 
 
-![Pofit VS Ratings](Horro.jpg)
+![Pofit VS Ratings](images/Horror.jpg)
 
 # Overview
 3D-Films conducted an in-depth review of movie data in order to provide informed advice to a prospective new entrant into the film industry. We parsed through box office numbers, film ratings, personnel, and genre representation to determine an optimized approach to building a cinematic empire. After conducting our analysis, we have determined that the strongest correlation for production budget to profit occurs in the highest tier of budget allocation, specifically above 100 million dollar budgets. That being said, all budget tiers were profitable. Secondly, we also determined that the Horror genre is an ideal genre for producing cost-effective films with a great track ROI track record. Our third insight is that using buzz-worthy personnel is useful for cultivating buzz and excitement amongst the public.
