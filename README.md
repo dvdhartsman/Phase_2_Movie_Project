@@ -24,11 +24,9 @@ We parsed through several different sources of data. Our data was taken from a n
 # Genres And Release Date 
 
 # Personnel 
-We analyzed if there was a relationship between ratings and profit, and as shown below we found a moderate positive correlation of 31%.
-
-![Pofit VS Ratings](images/Profit_vs_Ratings.jpg)
-
+We analyzed if there was a relationship between ratings and profit,we found a moderate positive correlation of 31%.
 We therefore used this to further check which artists are associated with high ratings and ROI. We found the following results:
+
 # Best Directors for the Horror/Thriller/Mystry Genre
 >- David Fincher
 >- John Madden
