@@ -27,35 +27,35 @@ We analyzed if there was a relationship between ratings and profit, and as shown
 
 We therefore used this to further check which artists are associated with high ratings and ROI. We found the following results:
 # Best Directors for the Horror/Thriller/Mystry Genre
-David Fincher
-John Madden
-Kathryn Bigelow
-Derek Cianfrance
-Oliver Stone
+>- David Fincher
+>- John Madden
+>- Kathryn Bigelow
+>- Derek Cianfrance
+>- Oliver Stone
 
 # Best Writers for the Horror/Thriller/Mystry Genre
-Stephen King
-Dario Argento
-Phil Hay
-John Carpenter
-Colin Bateman
+>- Stephen King
+>- Dario Argento
+>- Phil Hay
+>- John Carpenter
+>- Colin Bateman
 
 # Best Actor/Actress for the Horror/Thriller/Mystry Genre
-Leonardo DiCaprio
-Natalie Portman
-Ben Affleck
-Tom Hanks
-Gary Oldman
-Javier Bardem
-Matthew Goode
-Lili Taylor
-Forest Whitaker
-Samuel L. Jackson
-Sandra Bullock
-Ewan McGregor
-Harrison Ford
-Sean Bridgers
-Catherine Keener
+>- Leonardo DiCaprio
+>- Natalie Portman
+>- Ben Affleck
+>- Tom Hanks
+>- Gary Oldman
+>- Javier Bardem
+>- Matthew Goode
+>- Lili Taylor
+>- Forest Whitaker
+>- Samuel L. Jackson
+>- Sandra Bullock
+>- Ewan McGregor
+>- Harrison Ford
+>- Sean Bridgers
+>- Catherine Keener
 
 # Conclusion
 
@@ -64,3 +64,4 @@ Based on our analysis, we have found that expenditure had strong correlation wit
 Considering the financial risks associated with high-budget films, we recommend that a new film studio focuses on producing low to mid budget horror/thriller and mystery movies. By starting with these genres, the studio can minimize financial risks while still capitalizing on the high ROI potential the genre offers. This approach allows the studio to gain experience and establish a foothold in the industry before venturing into more expensive projects. This conclusion is based on the data we have examined, which indicates that these genres have a strong potential for profitability.
 
 It is important to note that our analysis is based on the available data and industry trends. The success of any movie project depends on various factors, including marketing strategies, storytelling, and audience reception. However, by focusing on low-budget horror and mystery movies and aligning their release with the Halloween season especially to avoid competition with established studios releasing in the summer, a new film studio can increase their chances of achieving a higher ROI. Aiming for writers, directors, actors and actresses that are associated with movies with highest ratings is also a good strategy to maximize popularity and establish a strong presence in the industry.
+
