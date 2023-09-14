@@ -24,7 +24,7 @@ We parsed through several different sources of data. Our data was taken from a n
 # Personnel 
 We analyzed if there was a relationship between ratings and profit, and as shown below we found a moderate positive correlation of 31%.
 
-<img width="698" alt="Screenshot 2023-09-13 at 9 56 24 PM" src="https://github.com/dvdhartsman/Phase_2_Movie_Project/assets/141673235/ccd4025a-1494-4bc7-858b-45a1f794bf66">
+![Pofit VS Ratings](images/profitvsratings.png)
 
 We therefore used this to further check which artists are associated with high ratings and ROI. We found the following results:
 # Best Directors for the Horror/Thriller/Mystry Genre
