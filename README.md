@@ -26,7 +26,7 @@ The first element we examined was the correlation between budget size and earnin
 
 # Genres And Release Date 
 We conducted an analysis of genres based on ROI and identified the top 10 genres. 
-![Top 10 Genres Based on ROI](images/genre_top10.jpg)
+![Top 10 Genres Based on ROI](images/genre_top10.png)
 
 # Personnel 
 We analyzed if there was a relationship between ratings and profit, and we found a moderate positive correlation of 31%.
