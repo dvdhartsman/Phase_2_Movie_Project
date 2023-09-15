@@ -25,8 +25,12 @@ We parsed through several different sources of data. Our data was taken from a n
 The first element we examined was the correlation between budget size and earnings profiles. We first divided the data into four separate budget groups, and evaluated each tier's descriptive statistics. We also constructed simple linear regression models in order to determine how predictable and explainable the relationship between budget size and earnings potential is.
 
 # Genres And Release Date 
-We conducted an analysis of genres based on ROI and identified the top 10 genres. 
+
+We conducted an analysis of genres based on ROI and identified the top 10 genres.
+
 ![Top 10 Genres Based on ROI](images/genre_top10.png)
+
+At the end of the analysis, we found that the Mystery, Horror, and Thriller genres were the top three genres based on ROI. Therefore, we have decided to conduct further analysis on these genres. As a first step, we analyzed the release months for each season based on ROI for each genre. Our observations revealed that the Summer, Halloween, and Winter holiday seasons appear to be the potentially best seasons in terms of ROI for horror movies. However, we also noted that the Summer and Halloween seasons are highly competitive and risky for a company new to the film industry. As a result, we recommend targeting the Winter holiday season, particularly with January releases, as a more favorable option for Horror/Thriller/Mystry Genres. 
 
 # Personnel 
 We analyzed if there was a relationship between ratings and profit, and we found a moderate positive correlation of 31%.
